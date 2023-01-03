@@ -1,2 +1,2 @@
 Welcome to GIT session!
-To fix bug1 adding a new line
+To fix bug1 adding a new line &&&&&&&
